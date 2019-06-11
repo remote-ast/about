@@ -14,7 +14,7 @@ Creemos que el sitio desde el que lo desempeñemos no es una limitación en trab
 
 2- Nos apoyamos los unos a los otros compartiendo conocimiento, y experiencias y mejorando nuestros propios procesos de gestión y toma de decisiones de forma continua. Para ello:
 
-  - Disponemos de un canal de telegram donde podemos hablar de forma asíncrona.
+  - Disponemos de un [canal de telegram](https://t.me/joinchat/ACyrrRBTATDKqipeLJn4hA) donde podemos hablar de forma asíncrona.
   - Nos reunimos [cada miércoles a las 9:30 GMT+2 (Asturias)](https://www.zoom.us/meeting/305775782/calendar/google/add) a través de zoom, y [registramos](./log) aquellas decisiones que sean importantes.
 
 ## Valores y Objetivos
