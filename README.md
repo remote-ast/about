@@ -24,6 +24,6 @@ Acabamos de nacer, por lo que todavía tenemos que ir concretando nuestros valor
 - **Altruismo**: Nos comprometemos a no recibir compensación alguna por la orientación o ayuda prestados. Nunca.
 - **Compromiso** por fomentar una comunidad segura y respetuosa. Para ello nos regimos por nuestro [código de conducta](./CODE_OF_CONDUCT.md)
 
-## Adminsitradores
+## Administradores
 
 * [Miguel Fernández](github.com/miguelff)
