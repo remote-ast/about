@@ -1,8 +1,8 @@
 ---
-name: preparacion-reunion
+name: preparacion-charla-semanal
 about: Resumen de las cuestion esa tratar en la próxima charla semanal
-title: ''
-labels: ''
+title: 'Próxima charla: YYYY-MM-DD'
+labels: 'charla'
 assignees: ''
 
 ---
