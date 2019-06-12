@@ -19,5 +19,5 @@ En esta issue se reflejan los puntos a tratar en la próxima reunión semanal
 
 ### Referencias
 
-[Acta de la reunión anterior](log/YYYY-MM-DD.md)
-[Cómo conducir la reunión](docs/reunións-semanales.md)
+* [Acta de la reunión anterior](log/YYYY-MM-DD.md)
+* [Cómo conducir la reunión](docs/reunións-semanales.md)
