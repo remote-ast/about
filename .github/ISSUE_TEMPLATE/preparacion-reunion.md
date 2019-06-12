@@ -1,13 +1,13 @@
 ---
-name: preparacion-charla-semanal
-about: Resumen de las cuestion esa tratar en la próxima charla semanal
-title: 'Próxima charla: YYYY-MM-DD'
-labels: 'charla'
+name: preparacion-reunión-semanal
+about: Resumen de las cuestion esa tratar en la próxima reunión semanal
+title: 'Próxima reunión: YYYY-MM-DD'
+labels: 'reunión'
 assignees: ''
 
 ---
 
-En esta issue se reflejan los puntos a tratar en la próxima charla semanal 
+En esta issue se reflejan los puntos a tratar en la próxima reunión semanal 
 
 ### Puntos a tratar
 
@@ -19,5 +19,5 @@ En esta issue se reflejan los puntos a tratar en la próxima charla semanal
 
 ### Referencias
 
-[Acta de la charla anterior](log/YYYY-MM-DD.md)
-[Cómo conducir la charla](docs/charlas-semanales.md)
+[Acta de la reunión anterior](log/YYYY-MM-DD.md)
+[Cómo conducir la reunión](docs/reunións-semanales.md)
