@@ -1,10 +1,10 @@
-# Qué es
+# remote-AST
 
-**remote-ast**: la comunidad de gente que trabaja en remoto desde Asturias.
+La comunidad de trabajadores en remoto desde Asturias.
 
 ## Visión
 
-Revertir el éxodo profesional en Asturias y desarrollar un tejido laboral más innovador, sostenible, y adaptado a las necesidades de empleo futuras, que en último término permita a un mayor número de personas gozar de una buena calidad de vida en Asturias.
+Mejorar la vida de las personas que trabajan en remoto desde Asturias y facilitar el acceso a trabajos en remoto a las personas que lo estén buscando.
 
 ## Misión
 
