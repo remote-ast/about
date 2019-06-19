@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-En esta issue se reflejan los puntos a tratar en la próxima reunión semanal 
+En esta PR se reflejan los puntos a tratar en la próxima reunión semanal, los cambios incluyen el acta de la última reunión.
 
 ### Puntos a tratar
 
