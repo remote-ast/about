@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-En esta issue se reflejan los puntos a tratar en la próxima reunión semanal 
+
+En esta PR se reflejan los puntos a tratar en la próxima reunión semanal, los cambios incluyen el acta de la última reunión.
 
 ### Puntos a tratar
 
@@ -19,4 +20,5 @@ En esta issue se reflejan los puntos a tratar en la próxima reunión semanal
 
 ### Referencias
 
+* [Acta de la reunión anterior](../blob/master/log/YYYY-MM-DD.md)
 * [Cómo conducir la reunión](../blob/master/docs/reuniones-semanales.md)
